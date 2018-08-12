@@ -19,6 +19,14 @@ ciclistas, como:
 
 -Reporta infracciones de otros ciclistas y ayudanos a mejorar la seguridad de la comunidad
 
+#### Contactanos
+Nombres: 
+E-mail:
+deseo tener información de:
+. [ ] Noticias
+. [ ] Actualizar Apps
+. [ ] Reportes de incidentes
+. [ ] Información general
 
 ``` Ruby
 puts "codificando Markdown"
