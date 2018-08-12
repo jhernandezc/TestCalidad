@@ -24,10 +24,10 @@ Nombres:
 E-mail:
 deseo tener información de:
 
-. [ ] Noticias
-. [ ] Actualizar Apps
-. [ ] Reportes de incidentes
-. [ ] Información general
+- [ ] Noticias
+- [ ] Actualizar Apps
+- [ ] Reportes de incidentes
+- [ ] Información general
 
 ``` Ruby
 puts "codificando Markdown"
