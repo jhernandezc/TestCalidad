@@ -1,3 +1,5 @@
+![bogota1](https://user-images.githubusercontent.com/42304733/44002865-677eb3ec-9e0f-11e8-9554-5791203ac973.jpg)
+
 # TeusApp
 Tú nueva herramienta digital para el alcance de la ciudadanía
 ## Para que sirve?
