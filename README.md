@@ -12,9 +12,13 @@ ciclistas, como:
 ### Beneficios:
 
 -Encuentra las rutas de acceso más cerca a ti con ciclorutas para llegar a tu destino
+
 -Sube tus propios videos dando consejos a los nuevos ciclistas y observa vídeos de la comunidad 
+
 -Registra tu bicicleta y acreditate como su propietario
+
 -Reporta infracciones de otros ciclistas y ayudanos a mejorar la seguridad de la comunidad
+
 
 ``` Ruby
 puts "codificando Markdown"
