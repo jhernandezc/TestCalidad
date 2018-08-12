@@ -22,7 +22,9 @@ ciclistas, como:
 ### Contactanos
 
 Nombres: 
+
 E-mail:
+
 deseo tener información de:
 
 - [ ] Noticias
