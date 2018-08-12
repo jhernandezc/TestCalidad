@@ -23,6 +23,7 @@ ciclistas, como:
 Nombres: 
 E-mail:
 deseo tener información de:
+
 . [ ] Noticias
 . [ ] Actualizar Apps
 . [ ] Reportes de incidentes
