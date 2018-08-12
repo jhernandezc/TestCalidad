@@ -10,11 +10,8 @@ ciclistas, como:
 * Consultar por matriculas.
 * Registrar PQR
 * Seguimientos
-<div>
 ![comparador-seguro-obligatorio-de-ciclistas](https://user-images.githubusercontent.com/42304733/44003177-3e3cd18a-9e14-11e8-891c-4013e51ecf21.png)
-</div>
-<br>
-<br>
+
 ejemplo
 
 ### Beneficios:
