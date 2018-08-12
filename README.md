@@ -19,14 +19,14 @@ ciclistas, como:
 
 -Reporta infracciones de otros ciclistas y ayudanos a mejorar la seguridad de la comunidad
 
-#### Contactanos
+### Contactanos
 Nombres: 
 E-mail:
 deseo tener información de:
 
-- [x] Noticias
-- [x] Actualizar Apps
-- [x] Reportes de incidentes
+- [] Noticias
+- [] Actualizar Apps
+- [ ] Reportes de incidentes
 - [x] Información general
 
 ``` Ruby
