@@ -10,6 +10,6 @@ ciclistas, como:
 * Seguimientos
 
 '''Ruby
-puts este es el codigo
+puts "este es el codigo"
 if puts then ingreso
 '''
