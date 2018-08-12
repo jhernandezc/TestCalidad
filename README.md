@@ -32,6 +32,10 @@ deseo tener información de:
 - [ ] Reportes de incidentes
 - [x] Información general
 
+``` html
+<button type="button">Click Me!</button>
+``` 
+
 btxt1=Button (f2, text="AGREGAR", width=8, height=1, bg="white", fg="black", relief=GROOVE, overrelief=RAISED, command=lambda:canvas.create_text(cw/2, 30, anchor=CENTER, text=etxt1.get(), activefill="yellow" fill=txtcolor, justify=CENTER, tags=CURRENT))
 
 ``` Ruby
