@@ -32,16 +32,8 @@ deseo tener información de:
 - [ ] Reportes de incidentes
 - [x] Información general
 
-<button class="button-save large">Big Fat Button</button>
+<button class="button-save large">Enviar</button>
 
-
-``` html
-<button type="button">Click Me!</button>
-
-<button class="button-save large">Big Fat Button</button>
-``` 
-
-btxt1=Button (f2, text="AGREGAR", width=8, height=1, bg="white", fg="black", relief=GROOVE, overrelief=RAISED, command=lambda:canvas.create_text(cw/2, 30, anchor=CENTER, text=etxt1.get(), activefill="yellow" fill=txtcolor, justify=CENTER, tags=CURRENT))
 
 ``` Ruby
 puts "codificando Markdown"
