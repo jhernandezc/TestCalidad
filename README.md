@@ -1,3 +1,4 @@
+![logo](https://user-images.githubusercontent.com/42304733/44003272-90290742-9e15-11e8-839d-3e654f25f254.png)
 
 # TeusApp
 Tú nueva herramienta digital para el alcance de la ciudadanía
