@@ -40,7 +40,7 @@ deseo tener información de:
 - [ ] Reportes de incidentes
 - [x] Información general
 
-<button class="button-save large">Enviar</button>
+<button class="button-save large" style={color: red;}>Enviar</button>
 
 
 ``` Ruby
