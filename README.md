@@ -1,4 +1,4 @@
-# TEUSAPP
+# TeusApp
 Tú nueva herramienta digital para el alcance de la ciudadanía
 ## Para que sirve?
 con ella podras registrar los incidentes que suceden en tu ciudad, y adicional, podras ver reportes de infracciones cometidas por los
