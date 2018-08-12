@@ -9,7 +9,9 @@ ciclistas, como:
 * Registrar PQR
 * Seguimientos
 
-'''Ruby
+''' Ruby
+
 puts "este es el codigo"
+
 if puts then ingreso
 '''
