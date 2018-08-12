@@ -10,7 +10,7 @@ ciclistas, como:
 * Registrar PQR
 * Seguimientos
 
-<div class="Logo">
+<div class="pull-right">
     https://user-images.githubusercontent.com/42304733/44002865-677eb3ec-9e0f-11e8-9554-5791203ac973.jpg
 </div>
 
@@ -49,6 +49,6 @@ puts "codificando Markdown"
 if puts then ingreso
 ```
 
-
+-------------------------------------------------------------------------------------------------
 ### Como descargarla?
 [tan sólo da clic aquí](https://www.microsoft.com/en-us/windows/windows-10-apps)
