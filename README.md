@@ -10,9 +10,7 @@ ciclistas, como:
 * Registrar PQR
 * Seguimientos
 
-<div class="pull-right">
-    https://user-images.githubusercontent.com/42304733/44002865-677eb3ec-9e0f-11e8-9554-5791203ac973.jpg
-</div>
+![comparador-seguro-obligatorio-de-ciclistas](https://user-images.githubusercontent.com/42304733/44003177-3e3cd18a-9e14-11e8-891c-4013e51ecf21.png)
 
 <br>
 <br>
